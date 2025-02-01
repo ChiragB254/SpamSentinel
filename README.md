@@ -1,10 +1,7 @@
-# SpamSentinel
-**SpamSentinel** is a powerful web app that leverages BERT fine-tuning to accurately classify messages as spam or non-spam. Built for efficiency and precision, it helps users filter out unwanted messages while ensuring important communications are not missed. 🚀
-
 # SpamSentinel: Spam Classification Web App
 
 ## Overview
-SpamSentinel is a web application that utilizes fine-tuned BERT models to classify text as spam or non-spam. This project includes data preprocessing, model training, API endpoints, and a frontend interface for user interaction.
+**SpamSentinel** is a powerful web app that leverages BERT fine-tuning to accurately classify messages as spam or non-spam. Built for efficiency and precision, it helps users filter out unwanted messages while ensuring important communications are not missed. 🚀
 
 ## Project Structure
 ```
