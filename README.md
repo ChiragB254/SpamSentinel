@@ -83,8 +83,8 @@ bert_classification_webapp/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bertshield.git
-   cd bertshield
+   git clone https://github.com/yourusername/SpamSentinel.git
+   cd SpamSentinel
    ```
 2. Install dependencies:
    ```bash
